@@ -1,16 +1,16 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Mike Sturm
+bio: Writing words on the web--for myself and others.
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Writing, Copywriting, thought technology.
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
 picture: assets/images/profile.jpg
 
-url: https://koppl.in/indigo
+url: https://www.mikesturm.net/indigo
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -30,7 +30,7 @@ disqus: mydisqus
 
 # if you don't have any of social below, comment the line
 facebook: myfacebook
-twitter: mytwitter
+twitter: aperfectsturm
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -41,17 +41,17 @@ github: mygithub
 stackoverflow: 7044681/mystackoverflow
 quora: userquora
 reddit: username
-medium: medium
+medium: mikesturm
 vimeo: myvimeo
-email: myemail@gmail.com
+email: mike.p.sturm@gmail.com
 
 authors:
     johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+        name: Mike Sturm
+        bio: Writing words on the web, for myself and others.
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        twitter: aperfectsturm
     jamesfoster:
         name: James Foster
         bio: A Man who develops software with coffee
